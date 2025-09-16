@@ -1,0 +1,65 @@
+*
+{
+    align-items: center;
+}
+button:hover{
+ background-color: rgb(237, 175, 163);
+
+}
+body{
+background-image: url("https://thumb.ac-illust.com/29/29c55bf7d0a2de14723a3335b9758e82_t.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+backgroud-position: center;
+height: 80vh                                                                                                                                                                                                                ;
+margin:1;
+align-content:center;
+display:flex;
+justify-content:center;
+border-radius:40px;
+}
+.
+.calculator
+{
+    border:3px solid rgb(179, 125, 125);
+    margin: 20px;
+    border-width: 8 px
+    width: 350px;
+    height: 450px fit-content;
+    border: radius 20px;
+}
+.type{
+margin=1
+width: 500px;
+height:5px;
+size:50px;
+}
+
+
+button{ 
+    color:black;
+    border-radius: 40px;
+    border-style: solid;
+    border-width: 2px;
+    border-height:10px;
+    align-content: center;
+    height: 50px;
+    width: 50px;
+    margin:5px;
+    font-size: large;
+}
+.control{
+    height: 10px;
+    border:solid;
+    border-radius: 5px;
+    color: rgb(177, 124, 124);
+
+}
+.task{
+    width: 255px;
+    border: solid;
+    border-radius:15px ;
+    height: 30px;
+    padding-top: 5px;
+    color: rgb(179, 123, 123);
+    
