@@ -7,37 +7,41 @@ button:hover{
 
 }
 body{
-background-image: url("https://thumb.ac-illust.com/29/29c55bf7d0a2de14723a3335b9758e82_t.jpeg");
+background-image: url(https://i.pinimg.com/1200x/ee/a4/62/eea4620cdc1ae257611f7fc2d71d27b9.jpg);
 background-size: cover;
 background-repeat: no-repeat;
+border-radius:40px;
 backgroud-position: center;
 height: 80vh                                                                                                                                                                                                                ;
 margin:1;
 align-content:center;
 display:flex;
 justify-content:center;
-border-radius:40px;
+
 }
-.
+
 .calculator
 {
-    border:3px solid rgb(179, 125, 125);
+    border:3px solid rgb(35, 31, 31);
+    border-radius:20px;
+    height: 388px;
     margin: 20px;
     border-width: 8 px
     width: 350px;
     height: 450px fit-content;
-    border: radius 20px;
+    background-color: grey;
 }
 .type{
 margin=1
 width: 500px;
-height:5px;
-size:50px;
+height: 5px;
+size: 50px;
+border-radius= 20px;
 }
 
 
 button{ 
-    color:black;
+    color: brown;
     border-radius: 40px;
     border-style: solid;
     border-width: 2px;
@@ -49,17 +53,17 @@ button{
     font-size: large;
 }
 .control{
+    border-radius: 20px;
     height: 10px;
     border:solid;
-    border-radius: 5px;
-    color: rgb(177, 124, 124);
+    color: gray;
 
 }
 .task{
     width: 255px;
     border: solid;
-    border-radius:15px ;
+    border-radius:20px ;
     height: 30px;
     padding-top: 5px;
-    color: rgb(179, 123, 123);
-    
+    color: rgba(59, 55, 49, 0.195);
+}
